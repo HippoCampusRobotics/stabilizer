@@ -2,7 +2,7 @@
 # https://answers.ros.org/question/298740/ros2-c-and-python-in-same-package-is-it-possible/
 
 cmake_minimum_required(VERSION 3.5)
-project(attitude_stabilizer)
+project(stabilizer)
 if(NOT CMAKE_CXX_STANDARD)
   set(CMAKE_CXX_STANDARD 17)
 endif()
